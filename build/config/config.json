@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x8492D8E17F3e520e171682D792B0eb79dC126B4E",
+  "SCAN_LINK": "https://bscscan.com/token/0x8492D8E17F3e520e171682D792B0eb79dC126B4E",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Zion Labs",
+  "SYMBOL": "ZLS",
+  "MAX_SUPPLY": 6200,
+  "WEI_COST": 1800000000000000,
+  "DISPLAY_COST": 0.18,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTKey",
+  "MARKETPLACE_LINK": "https://nftkey.app/collections/zionlions/",
+  "SHOW_BACKGROUND": true
+
+}
