@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xf93099D8BD170F347941f5b8e29275c61B5009e8",
+  "SCAN_LINK": "https://bscscan.com/token/0xf93099D8BD170F347941f5b8e29275c61B5009e8",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Ape Hybrids Society",
+  "SYMBOL": "APS",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 79000000000000000,
+  "DISPLAY_COST": 0.079,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTKey",
+  "MARKETPLACE_LINK": "https://nftkey.app/collections/apehybridssociety/",
+  "SHOW_BACKGROUND": false
+
+}
